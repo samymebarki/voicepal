@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88522020203",
+    "project_id": "voicepal-608c8",
+    "storage_bucket": "voicepal-608c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88522020203:android:f96e7b27deda6a240ca82e",
+        "android_client_info": {
+          "package_name": "com.voicepal.voicepal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFDDtVdsemKEx4TWCQOur4NcHrp0wOh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
